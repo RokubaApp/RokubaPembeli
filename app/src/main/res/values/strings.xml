@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Rokuba</string>
+    <string name="delivery">Delivery</string>
+    <string name="umum">Umum</string>
+    <string name="isi_nama_anda">Isi Nama Anda</string>
+    <string name="nama">Nama</string>
+    <string name="button">Button</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="logo">Logo</string>
+    <string name="pilih_jenis_pembeli">Pilih Jenis Pembeli</string>
+    <string name="ok">OK</string>
+    <string name="bgRoti">bgRoti</string>
+    <string name="classic">CLASSIC</string>
+    <string name="modern">MODERN</string>
+    <string name="premium">PREMIUM</string>
+    <string name="asin">ASIN</string>
+    <string name="buletanclassic">buletanclassic</string>
+    <string name="pesanananda">PESANAN ANDA</string>
+    <string name="pilihmenu">PILIH MENU</string>
+    <string name="pilihrasa">PILIH RASA</string>
+    <string name="title_activity_pilih_roti">PilihRoti</string>
+    <string name="menuroticlassic">Pilih Rasa Classic</string>
+    <string name="menurotimodern">Pilih Rasa Modern</string>
+    <string name="menurotipremium">Pilih Rasa premium</string>
+    <string name="menurotiasin">Pilih Rasa Asin</string>
+    <string name="namaanda">Nama Anda</string>
+    <string name="pesanananda2">Pesanan Anda</string>
+
+</resources>
